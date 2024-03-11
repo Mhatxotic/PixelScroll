@@ -1,13 +1,17 @@
 # Pixel Scroll
 
+[Original](https://github.com/emreyolcu/pixel-scroll) version created by [Emre Yolcu](https://github.com/emreyolcu).
+
+Forked, modified and modernised to a universal binary, icon and XCode project file.
+
 This small utility provides a toggleable drag and scroll mechanism for
 macOS. It is especially useful with a trackball where you can press mouse
-button 4 and roll the ball to scroll through a large website or a document.
+button 5 and roll the ball to scroll through a large website or a document.
 
 ## Installation
 
 You may download the binary
-[here](https://github.com/emreyolcu/pixel-scroll/releases/download/v0.1.0/PixelScroll.zip). It
+[here](https://github.com/XMhat/PixelScroll/releases). It
 runs in the background and does not interfere until mouse button 4 is pressed.
 
 If you want this to run automatically at boot you may go to `System Preferences > Users & Groups > Login Items`
