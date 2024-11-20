@@ -11,7 +11,7 @@ button 5 and roll the ball to scroll through a large website or a document.
 ## Installation
 
 You may download the binary
-[here](https://github.com/XMhat/PixelScroll/releases). It
+[here](https://github.com/Mhatxotic/PixelScroll/releases). It
 runs in the background and does not interfere until mouse button 4 is pressed.
 
 If you want this to run automatically at boot you may go to `System Preferences > Users & Groups > Login Items`
